@@ -25,3 +25,4 @@
           overflowJobs: []
           availableJobs:
             Passenger: [ 0, 0 ]
+            Chef: [ 0, 0 ]
